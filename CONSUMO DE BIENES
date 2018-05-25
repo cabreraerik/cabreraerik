@@ -6,7 +6,7 @@ veces=1
 
 Mientras veces<6 Hacer
 
-Escribir "¿Cuántas unidades del bien A a 20 euros quieres consumir?"
+Escribir "¿Cuántas unidades del bien A a 20 euros quieres COMPRAR?"
 
 Leer uda
 
